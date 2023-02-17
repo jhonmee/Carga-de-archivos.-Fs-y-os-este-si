@@ -1,0 +1,5 @@
+host: LAPTOP-6IN5RAM7
+plataforma: win32
+procesador: AMD Athlon Silver 3050U with Radeon Graphics   
+arquitectura: x64
+memoria ram total: 5.88 GB (6020.26 MB)
